@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front-end developer. I am currently working as a front-end developer at Jotform. I'm working on JavaScript and React.
+I'm a front-end developer. I am currently working as a front-end developer at Jotform. I'm working on JavaScript, React and TypeScript.
 
 
 ## 🌐 Socials:
