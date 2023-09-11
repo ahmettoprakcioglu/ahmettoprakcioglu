@@ -15,9 +15,6 @@ I'm a front-end developer. I am currently working as a front-end developer at Jo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmettoprakcioglu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmettoprakcioglu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
