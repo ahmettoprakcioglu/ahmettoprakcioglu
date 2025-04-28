@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=735&lines=Hi+👋;I'm+Kaan+Toprakçıoğlu;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 I’m a front-end developer passionate about creating performant, accessible, and beautiful web experiences.
 Currently, I work at Jotform as a Front-end Developer, specializing in JavaScript, React, Next.js, and TypeScript.
